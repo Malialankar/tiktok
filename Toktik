@@ -1,0 +1,11 @@
+<html>
+<title><h1>first project</h1></title>
+<body>web page</body>
+<style>
+body{
+background-color:black;
+color:#fff;
+text-align: center;
+}
+</style>
+</html>
